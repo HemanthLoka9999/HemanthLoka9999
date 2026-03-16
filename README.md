@@ -2,7 +2,7 @@
 
 Data / Business Analyst | SQL • Python • Power BI
 
-Previously worked at Amazon (~2.8 years) supporting **last-mile analytics and performance reporting**.
+Previously worked at Amazon (~2.9 years) supporting **last-mile analytics and performance reporting**.
 
 ## Skills
 SQL  
