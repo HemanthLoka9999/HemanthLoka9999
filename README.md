@@ -11,7 +11,7 @@ Data / Business Analyst | SQL • Python • Power BI
 - **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Excel**
 - **ETL & Data Processing Concepts**
-- 
+  
 ## Projects
 
 ### SaaS-Churn-Analytics-Case-Study (SQL + BigQuery + Python)
