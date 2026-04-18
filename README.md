@@ -15,6 +15,12 @@ ETL Concepts
 
 ## Projects
 
+### SaaS-Churn-Analytics-Case-Study (SQL + BigQuery + Python)
+SaaS churn analytics project using SQL & Python to identify early churn signals and quantify revenue at risk (~35% MRR).
+
+Repo:  
+https://github.com/HemanthLoka9999/SaaS-Churn-Analytics-Case-Study
+
 ### Retail Analytics (SQL + Python)
 Sales dataset analysis covering revenue trends, customer purchase behavior, discount impact, and product performance.
 
