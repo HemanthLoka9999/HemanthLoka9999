@@ -2,27 +2,26 @@
 
 Data / Business Analyst | SQL • Python • Power BI
 
-Previously worked at Amazon (~2.9 years) supporting **last-mile analytics and performance reporting**.
+~2.9 years of experience at Amazon, analyzing last-mile data to generate insights and support business decision-making.
 
 ## Skills
-SQL  
-Python (Pandas, NumPy)  
-Excel  
-Power BI  
-Matplotlib  
-Seaborn  
-ETL Concepts
 
+- **SQL** (BigQuery)
+- **Python** (Pandas, NumPy)
+- **Data Visualization**: Power BI, Matplotlib, Seaborn
+- **Excel**
+- **ETL & Data Processing Concepts**
+- 
 ## Projects
 
 ### SaaS-Churn-Analytics-Case-Study (SQL + BigQuery + Python)
-SaaS churn analytics project using SQL & Python to identify early churn signals and quantify revenue at risk (~35% MRR).
+End-to-end analysis of ~1M+ user activity records to identify churn signals and quantify revenue risk, revealing ~35% of MRR linked to inactive users.
 
 Repo:  
 https://github.com/HemanthLoka9999/SaaS-Churn-Analytics-Case-Study
 
 ### Retail Analytics (SQL + Python)
-Sales dataset analysis covering revenue trends, customer purchase behavior, discount impact, and product performance.
+Analyzed sales data to identify revenue trends, customer purchase behavior, discount impact, and product performance.
 
 Repo:  
 https://github.com/HemanthLoka9999/superstore-retail-analytics
@@ -30,7 +29,7 @@ https://github.com/HemanthLoka9999/superstore-retail-analytics
 ---
 
 ### Business Performance Dashboard (Power BI)
-Interactive dashboard analyzing sales KPIs, monthly revenue trends, and country-wise performance.
+Built an interactive dashboard to track sales KPIs, monthly revenue trends, and country-level performance.
 
 Repo:  
 https://github.com/HemanthLoka9999/powerbi-business-performance-dashboard
