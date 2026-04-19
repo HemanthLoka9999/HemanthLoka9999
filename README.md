@@ -17,10 +17,9 @@ Data / Business Analyst | SQL • Python • Power BI
 ## Projects
 
 ### SaaS-Churn-Analytics-Case-Study (SQL + BigQuery + Python)
-End-to-end analysis of ~1M+ user activity records to identify churn signals and quantify revenue risk, revealing ~35% of MRR linked to inactive users.
+End-to-end churn analysis on ~1M+ user activity records using SQL (CTEs, window functions) and Python to identify behavioral churn signals and quantify revenue risk.
 
-
-📊 Key Insight: ~35% of revenue is tied to inactive users, highlighting a major retention opportunity.
+📊 Key Insight: Inactive users account for ~35% of total MRR (~$75K), indicating significant revenue exposure from poor retention.
 
 🔗 Repo: https://github.com/HemanthLoka9999/SaaS-Churn-Analytics-Case-Study
 
